@@ -1,0 +1,36 @@
+﻿( |<|^)[o|O][a-zA-Z0-9._+-]+@.*?(com|org)
+34
+5389: To: outlook.team@enron.com
+10713: To: outlook.team@enron.com
+11587: Outlook.2000@enron.com
+13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+30118: off-yild@zdemail.zdlists.com.
+30122: blank e-mail to on-yild@zdemail.zdlists.com
+35982: Sender: owner-strawbale@crest.org
+36031: From: owner-strawbale@crest.org
+36036: X-From: owner-strawbale@crest.org
+36055: Sender: owner-strawbale@crest.org
+38056: To: outlook.team@enron.com
+39073:  Outlook.2000@enron.com
+41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+52637: From: outlook-migration-team@enron.com
+52653: From: outlook-migration-team@enron.com
+54430: ove@commissioner.com . Do not respond to this email directly.   =09
+59228: From: online.service@schwab.com
+59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+68977: From: open2win.0ll1.net@mailman.enron.com
+68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+73066: From: oportunity@cells4free.com
+73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+81775: off-yild@zdemail.zdlists.com.
+81779: blank e-mail to on-yild@zdemail.zdlists.com
+85063: From: owner-strawbale@crest.org
+85068: X-From: owner-strawbale@crest.org
+85087: Sender: owner-strawbale@crest.org
+86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+90620: Sender: owner-strawbale@crest.org
+90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+92996:  Outlook.2000@enron.com
